@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AvinashOraon123/leetcode-solved/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
