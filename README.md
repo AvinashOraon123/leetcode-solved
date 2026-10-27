@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AvinashOraon123/leetcode-solved/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -50,5 +51,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
