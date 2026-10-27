@@ -10,12 +10,14 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0054-spiral-matrix) |
+| [1207-unique-number-of-occurrences](https://github.com/AvinashOraon123/leetcode-solved/tree/master/1207-unique-number-of-occurrences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AvinashOraon123/leetcode-solved/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/AvinashOraon123/leetcode-solved/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
