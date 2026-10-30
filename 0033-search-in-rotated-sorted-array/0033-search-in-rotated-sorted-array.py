@@ -1,10 +1,23 @@
 class Solution:
     def search(self, nums: list[int], target: int) -> int:
         n = len(nums)
-        for i in range(0,n):
-            for i in range(0,n):
-                if nums[i] == target:
-                    return i
+        l = 0
+        h = n-1
+
+        while l<=h:
+            m = (l+h)//2
+            if nums[m] == target:
+                return m
+            if nums[h]>=nums[m]:
+                if nums[m] <=target<=nums[h]:
+                    l = m +1
+                else:
+                    h = m-1
+            else:
+                if nums[l] <=target<=nums[m]:
+                    h = m -1
+                else:
+                    l = m+1
 
         return -1
-        
+                
