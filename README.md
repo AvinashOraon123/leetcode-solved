@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0010-regular-expression-matching) |
 ## Sliding Window
 |  |
 | ------- |
@@ -67,9 +68,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0055-jump-game) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
