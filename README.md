@@ -13,6 +13,7 @@
 | [0054-spiral-matrix](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [1207-unique-number-of-occurrences](https://github.com/AvinashOraon123/leetcode-solved/tree/master/1207-unique-number-of-occurrences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AvinashOraon123/leetcode-solved/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -98,4 +99,16 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
