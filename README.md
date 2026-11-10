@@ -45,6 +45,7 @@
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0185-department-top-three-salaries) |
 | [0584-find-customer-referee](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/AvinashOraon123/leetcode-solved/tree/master/1148-article-views-i) |
