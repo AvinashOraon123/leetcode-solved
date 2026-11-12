@@ -16,6 +16,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [1207-unique-number-of-occurrences](https://github.com/AvinashOraon123/leetcode-solved/tree/master/1207-unique-number-of-occurrences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AvinashOraon123/leetcode-solved/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3332-maximum-points-tourist-can-earn](https://github.com/AvinashOraon123/leetcode-solved/tree/master/3332-maximum-points-tourist-can-earn) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0054-spiral-matrix) |
+| [3332-maximum-points-tourist-can-earn](https://github.com/AvinashOraon123/leetcode-solved/tree/master/3332-maximum-points-tourist-can-earn) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0055-jump-game) |
+| [3332-maximum-points-tourist-can-earn](https://github.com/AvinashOraon123/leetcode-solved/tree/master/3332-maximum-points-tourist-can-earn) |
 ## Greedy
 |  |
 | ------- |
