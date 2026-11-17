@@ -13,6 +13,7 @@
 | [0039-combination-sum](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [1207-unique-number-of-occurrences](https://github.com/AvinashOraon123/leetcode-solved/tree/master/1207-unique-number-of-occurrences) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0015-3sum](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AvinashOraon123/leetcode-solved/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -45,6 +47,7 @@
 | ------- |
 | [0015-3sum](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0075-sort-colors) |
 ## Database
 |  |
 | ------- |
@@ -122,4 +125,12 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0039-combination-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
