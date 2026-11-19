@@ -31,6 +31,7 @@
 | [0015-3sum](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0075-sort-colors) |
+| [0876-middle-of-the-linked-list](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AvinashOraon123/leetcode-solved/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -93,6 +94,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0025-reverse-nodes-in-k-group) |
+| [0876-middle-of-the-linked-list](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
