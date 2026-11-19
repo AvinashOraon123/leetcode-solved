@@ -32,6 +32,7 @@
 | ------- |
 | [0015-3sum](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0142-linked-list-cycle-ii) |
@@ -97,6 +98,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0141-linked-list-cycle) |
