@@ -89,11 +89,13 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0206-reverse-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AvinashOraon123/leetcode-solved/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
